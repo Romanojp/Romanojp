@@ -23,10 +23,10 @@ Here are some ideas to get you started:
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ANGULAR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   
-  <img align="right" alt="deadpool" src="https://i.imgur.com/9sbUqpB.gif">
+  <img align="right" alt="deadpool" src="https://i.pinimg.com/originals/0b/b5/96/0bb5963f254c3c4122fa81df7cc4cea3.gif">
 </div>
   
   ##
