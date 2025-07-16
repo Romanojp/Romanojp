@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="ANGULAR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   
-  <img align="right" alt="deadpool" src="https://i.pinimg.com/originals/0b/b5/96/0bb5963f254c3c4122fa81df7cc4cea3.gif">
+<!--<img align="right" alt="deadpool" src="https://i.pinimg.com/originals/0b/b5/96/0bb5963f254c3c4122fa81df7cc4cea3.gif"> -->
 </div>
   
   ##
